@@ -1,18 +1,16 @@
 
 body {
     font-family: 'Shadows Into Light Two', cursive;
-    padding: 20px;
-    background-image: url("pebbles.jpg");
-    border-width: 50px;
-    margin-top: 50px;
-   margin-bottom: 100px;
-   margin-left: 50px;
-   margin-right: 50px;
+    border-width: 10px;
+    
 }
 
+
+
 h1{
-    font-family: 'Shadows Into Light Two', cursive;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif, cursive;
     text-align: center;
+    color: rgb(195, 255, 249);
     
 }
 
@@ -21,7 +19,8 @@ h1{
     font-weight: bold;
     text-align: center;
     padding: 50px;
-    color: #D98B84;
+    color: white;
+    
 }
 
 .btn{
@@ -29,6 +28,16 @@ h1{
 }
 
 .textbox {
-    height: 100px;
-    margin: auto;
+   width: 200px;
 }
+
+.page-holder {
+    min-height: 100vh;
+    background-blend-mode: color-burn;
+  }
+  
+  .bg-cover {
+    background-size: cover !important;    
+  }
+
+  
