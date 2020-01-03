@@ -1,0 +1,21 @@
+
+h1{
+    color: #D98B84;
+    text-align: center;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 4.5em;
+    margin-top: 0.51em;
+    margin-bottom: 0em;
+    font-weight: bold;
+      
+}
+
+.navbar {
+    
+    color: white; 
+    background-color: #6D8C89 ;
+    opacity: 0.9;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 1.2em;
+    padding:10px
+   }
