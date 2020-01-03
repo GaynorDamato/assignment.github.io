@@ -2,15 +2,16 @@
 body {
     font-family: 'Shadows Into Light Two', cursive;
     border-width: 10px;
+    background: darkslategrey;
     
 }
 
 
 
 h1{
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif, cursive;
+    font-family: 'Vidaloka', serif;
     text-align: center;
-    color: rgb(195, 255, 249);
+    color:rgb(255, 251, 0);
     
 }
 
@@ -18,9 +19,16 @@ h1{
     font-family: 'Montserrat', sans-serif;
     font-weight: bold;
     text-align: center;
-    padding: 50px;
+    padding: 20px;
     color: white;
     
+}
+
+.image{
+    background-image: url(bench.png);
+    background-size: auto;
+    width: auto;
+    height: auto;
 }
 
 .btn{
@@ -32,12 +40,25 @@ h1{
 }
 
 .page-holder {
-    min-height: 100vh;
-    background-blend-mode: color-burn;
+    
+    background-size: contain;
   }
   
   .bg-cover {
-    background-size: cover !important;    
+    background-size: cover !important;  size: 100%;
+ 
   }
 
+.navbar {
+    
+    color: white; 
+    background-color: #6D8C89 ;
+    opacity: 0.9;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 1.2em;
+    
+}
+
+
+     
   
