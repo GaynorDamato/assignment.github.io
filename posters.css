@@ -1,6 +1,21 @@
 h1{
-    font-family: 'Permanent Marker', cursive;
-    text-align: center;
-    color: #f24c3d;
+    font-family: 'Monoton', cursive;
+    text-align: left;
+    font-size: 3em;
+    font-display: bold;
+    color: black;
+    margin: 0em;
+    padding: 0.5em;
+    background-color: #a9d9d4;
     
 }
+
+.navbar {
+    
+    color: white; 
+    background-color: #6D8C89 ;
+    opacity: 0.9;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 1.2em;
+    
+   }
