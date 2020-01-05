@@ -2,41 +2,52 @@
 body {
     font-family: 'Shadows Into Light Two', cursive;
     border-width: 10px;
-    background: darkslategrey;
-    
 }
 
 
 
 h1{
-    font-family: 'Vidaloka', serif;
+    font-family: 'Shadows Into Light', cursive;
     text-align: center;
-    color:rgb(255, 251, 0);
-    
+    color:#ee5e51;
+    margin: 30px; 
 }
 
 .inputs{
-    font-family: 'Montserrat', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
-    text-align: center;
-    padding: 20px;
-    color: white;
-    
+    text-align: cleft;
+    color:black;
+    background-color: #a9d9d4c9;
+    padding: 27px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 10px;
+    margin-bottom: 30px;
 }
 
+input[type=text] {
+    width: 100%;
+    height: 200%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+
+  input[type=text]:focus {
+    background-color: #D98B84;
+  }
+
+
 .image{
-    background-image: url(bench.png);
-    background-size: auto;
-    width: auto;
-    height: auto;
+    background-image: url(https://images.pexels.com/photos/1573434/pexels-photo-1573434.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500);
 }
 
 .btn{
-    text-align: center;
-}
-
-.textbox {
-   width: 200px;
+    font-family: 'Shadows Into Light', cursive;
+    margin: 30px;
+    margin-left: 0;
+    width: 100px;
 }
 
 .page-holder {
@@ -45,7 +56,7 @@ h1{
   }
   
   .bg-cover {
-    background-size: cover !important;  size: 100%;
+    background-size: cover !important;  
  
   }
 
