@@ -11,8 +11,7 @@ h2 {
     text-align: center;
 }
 .post{
-    border: 40px solid rgb(238, 161, 154); 
-    border-style: outset;
+    
     padding: 20px; 
     max-width: 700px; 
     width: 80%; 
