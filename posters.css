@@ -1,13 +1,16 @@
+body{
+    background-color: rgb(237, 251, 252);  
+}
+
 h1{
-    font-family: 'Monoton', cursive;
-    text-align: left;
-    font-size: 3em;
+    font-family: 'Shadows Into Light', cursive;
+    text-align: center;
+    font-size: 4em;
     font-display: bold;
     color: black;
     margin: 0em;
     padding: 0.5em;
-    background-color: #a9d9d4;
-    
+   
 }
 
 .navbar {
