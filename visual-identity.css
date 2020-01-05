@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(242, 253, 252);
+}
+
+h1{
+    color: #D98B84;
+    text-align: left;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 3.5em;
+    margin-left: 1em;
+    margin-top: 2em;
+    margin-bottom: 0 em;
+      
+}
+
+.navbar {
+    
+    color: white; 
+    background-color: #6D8C89 ;
+    opacity: 0.9;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 1.2em;
+    padding:10px
+   }
+
+.card{
+    align-content: center;
+    padding: 1em;
+    margin: 1em;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
