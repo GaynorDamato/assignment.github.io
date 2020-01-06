@@ -6,10 +6,11 @@ h1{
     color: rgb(255, 147, 137);
     text-align: center;
     font-family: 'Shadows Into Light', cursive;
-    font-size: 50px;
+    font-size: 3em;
     margin-top: 0.51em;
     margin-bottom: 0em;
     font-weight: bold;
+    margin-left: 0.4em;
       
 }
 
@@ -17,7 +18,7 @@ h2{
     color: black;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 40px;
+    font-size: 2em;
     margin-top: 0.51em;
     margin-bottom: 0.2em;
     margin-left: 0.5em;
@@ -33,7 +34,7 @@ h2{
    }
 
 .carousel{
-    background: rgb(180, 201, 199);
+    background: rgba(180, 201, 199, 0.726);
     width: 350px;
     height: auto;
     padding: 4em;
@@ -42,14 +43,14 @@ h2{
 }
 
 .pl-3{
-    margin-top: 2em;
+    margin-top: 1em;
     margin-left:3em;
-    margin-bottom: 2em;
+    margin-bottom: 1em;
 
 }
 
 .img-fluid{
-background: rgb(180, 201, 199);
+background: rgb(180, 201, 199,0.726);
     width: 400px;
     height: auto;
     padding: 4em;
@@ -73,4 +74,5 @@ background: rgb(180, 201, 199);
     color:black ;
     font-display: bold;
     background-color:#a9d9d4 ;
+    margin-left: 2em;
 }
